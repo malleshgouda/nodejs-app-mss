@@ -2,11 +2,10 @@
   "name": "nodejsexamples",
   "version": "1.0.0",
   "description": "This Project explains all Node JS examples",
-  "main": "app.js",  
-  "publishConfig":{
-      "registry": "http://15.207.223.81:8085/repository/Nodejsmallesh/"
-},
-
+  "main": "app.js",
+  "publishConfig": {
+    "registry": "http://15.207.223.81:8085/repository/Nodejsmallesh/"
+  },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
     "start1": "nodemon app.js",
@@ -25,7 +24,10 @@
   "engines": {
     "node": "v10.6.0"
   },
-  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MithunTechnologies/node-js-application"
+  },
   "keywords": [
     "node",
     "Mithun Technologies",
