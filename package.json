@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "http://172.31.14.114:8085/repository/Nodejsmallesh/"
   },
   "keywords": [
     "node",
